@@ -5,7 +5,7 @@ int main ()
     int riq= b<=a;
 
     printf ("%d", riq);
-    
+    printf ("jjj");
     return 0;
     
 }
